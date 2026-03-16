@@ -118,16 +118,4 @@ http://localhost/php-task-manager
 
 ---
 
-## 👩‍💻 Author
-
-**Diya Taib Ismahil**
-
-Computer Science Developer
-Interested in **Web Development, UI/UX, and Full Stack Engineering**
-
-GitHub:
-https://github.com/DIYA73
-
----
-
 ⭐ If you like this project, consider giving it a star!
