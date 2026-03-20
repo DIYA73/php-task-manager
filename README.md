@@ -33,7 +33,7 @@ The application includes authentication, task management features, and filtering
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 ![App Screenshot](image/screenshot.png)
 
